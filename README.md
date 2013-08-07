@@ -1,4 +1,4 @@
 sylv
 ====
 
-Forest dynamics models
+Forest dynamics models, IBM and Mean Fields
